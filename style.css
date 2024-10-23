@@ -10,4 +10,8 @@ section{
     display: flex;
     justify-content: center;
 }
-header
+header{
+    margin: 40px;
+}
+.TEXTO1{margin-right: 30px;
+}
