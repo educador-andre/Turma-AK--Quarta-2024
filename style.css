@@ -18,4 +18,9 @@ header{
 
 img{
     height: 200px;
+
+.Categoria-Vídeos
+display: flex;
+overflow: auto;
+gap:10px;
 }
