@@ -5,8 +5,8 @@ body{
 
 section{
     background-color: rgb(131, 165, 197);
-    padding-top:80px;
-    padding-bottom: 80px;
+    padding-top:40px;
+    padding-bottom: 40px;
     display: flex;
     justify-content: center;
     }
