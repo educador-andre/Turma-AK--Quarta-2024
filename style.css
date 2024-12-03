@@ -9,7 +9,8 @@ section{
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
-}
+    font-size: 80px;}
+
 header{
     font-size: 80px;
     margin: 80px;
