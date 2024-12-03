@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(6, 6, 6);
+    background-color: rgba(6, 6, 6, 0.196);
     color: darkblue;
 }
 
@@ -13,7 +13,7 @@ section{
 header{
     margin: 40px;
 }
-.TEXTO1{margin-right: 60px;
+.TEXTO1{margin-right: 80px;
 }
 
 img{
