@@ -11,9 +11,10 @@ section{
     justify-content: center;
 }
 header{
+    font-size: 80px;
     margin: 80px;
 }
-.TEXTO1{margin-top: 160px;
+.TEXTO1{margin-top: 80px;
 }
 
 img{
