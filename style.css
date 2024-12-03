@@ -1,7 +1,9 @@
 body{
     background-color: rgba(6, 6, 6, 0.196);
     color: darkblue;
-    justify-content: center;
+}
+h1{font-size: 80px;
+    justify-content:right;
 }
 
 section{
