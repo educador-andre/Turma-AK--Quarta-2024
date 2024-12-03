@@ -13,7 +13,7 @@ section{
     display: flex;
     justify-content: center;
     }
-
+h2{padding-top: 60px;}
 header{
     font-size: 40px;
     margin: 40px;
