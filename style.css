@@ -14,8 +14,8 @@ h1{font-size: 80px;
     justify-content:right;
 }
 header{
-    font-size: 80px;
-    margin: 80px;
+    font-size: 40px;
+    margin: 40px;
 }
 
 .TEXTO1{margin-top: 80px;
@@ -24,7 +24,7 @@ header{
 img{
     height: 200px;
 
-.Categoria Videos
+Categoria Videos
 display: flex;
 overflow: auto;
 gap:10px;
