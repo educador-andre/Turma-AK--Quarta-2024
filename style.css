@@ -16,6 +16,7 @@ h1{font-size: 80px;
 header{
     font-size: 40px;
     margin: 40px;
+    justify-content: center;
 }
 
 .TEXTO1{margin-top: 80px;
