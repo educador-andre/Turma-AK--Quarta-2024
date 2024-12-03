@@ -10,7 +10,7 @@ section{
     display: flex;
     justify-content: center;
     }
-
+<h1>{font-size: 80px;}
 header{
     font-size: 80px;
     margin: 80px;
